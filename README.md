@@ -21,3 +21,19 @@ Meet Deck Hopper! Easily connect to SAMMI, access your decks and buttons, and ta
 - Deck App: User Input Commands
 - Launch Deck Hopper with specific flags, such as opening a particular deck
 - More features coming soon!
+
+Sure! Here's a clear and organized **Download** section for Deck Hopper, complete with direct download links for each file:
+
+## Download
+
+### **Windows**
+- [Installer](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-Setup-1.3.1.exe)
+
+### **macOS**
+- [Intel-based Macs](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-1.3.1-x64.dmg)
+- [Apple Silicon Macs](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-1.3.1-arm64.dmg)
+
+### **Linux**
+- [AppImage (x86_64)](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-1.3.1-x86_64.AppImage)
+- [AppImage (ARM64)](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-1.3.1-arm64.AppImage)
+- [Debian Package](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-1.3.1-arm64.deb)
