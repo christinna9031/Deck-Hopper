@@ -37,3 +37,6 @@ Sure! Here's a clear and organized **Download** section for Deck Hopper, complet
 - [AppImage (x86_64)](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-1.3.1-x86_64.AppImage)
 - [AppImage (ARM64)](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-1.3.1-arm64.AppImage)
 - [Debian Package](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.3.1/Deck-Hopper-1.3.1-arm64.deb)
+
+### **Android**
+- [Google Play Store](https://play.google.com/store/apps/details?id=ca.christinak.DeckHopper&hl=en_CA)
