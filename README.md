@@ -22,8 +22,6 @@ Meet Deck Hopper! Easily connect to SAMMI, access your decks and buttons, and ta
 - Launch Deck Hopper with specific flags, such as opening a particular deck
 - More features coming soon!
 
-Sure! Here's a clear and organized **Download** section for Deck Hopper, complete with direct download links for each file:
-
 ## Download
 
 ### **Windows**
