@@ -25,16 +25,16 @@ Meet Deck Hopper! Easily connect to SAMMI, access your decks and buttons, and ta
 ## Download
 
 ### **Windows**
-- [Installer](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.4.0/Deck-Hopper-Setup-1.4.0.exe)
+- [Installer](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.5.0/Deck-Hopper-Setup-1.5.0.exe)
 
 ### **macOS**
-- [Intel-based Macs](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.4.0/Deck-Hopper-1.4.0-x64.dmg)
-- [Apple Silicon Macs](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.4.0/Deck-Hopper-1.4.0-arm64.dmg)
+- [Intel-based Macs](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.5.0/Deck-Hopper-1.5.0-x64.dmg)
+- [Apple Silicon Macs](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.5.0/Deck-Hopper-1.5.0-arm64.dmg)
 
 ### **Linux**
-- [AppImage (x86_64)](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.4.0/Deck-Hopper-1.4.0-x86_64.AppImage)
-- [AppImage (ARM64)](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.4.0/Deck-Hopper-1.4.0-arm64.AppImage)
-- [Debian Package](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.4.0/Deck-Hopper-1.4.0-arm64.deb)
+- [AppImage (x86_64)](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.5.0/Deck-Hopper-1.5.0-x86_64.AppImage)
+- [AppImage (ARM64)](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.5.0/Deck-Hopper-1.5.0-arm64.AppImage)
+- [Debian Package](https://github.com/christinna9031/Deck-Hopper/releases/download/v1.5.0/Deck-Hopper-1.5.0-arm64.deb)
 
 ### **Android**
 - [Google Play Store](https://play.google.com/store/apps/details?id=ca.christinak.DeckHopper&hl=en_CA)
